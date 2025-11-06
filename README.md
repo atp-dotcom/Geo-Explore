@@ -1,17 +1,13 @@
 # Geo-Explore
-This repository contains the final project for DSE 511
-
-# POC
-
-Collaborators: **Clinton Stipek (cstipek@vols.utk.edu)**, Shirley xu, Eva Kaushik, and Anibely Torres. 
+This repository contains the final project for DSE 511 
 
 # Task List
 
 - Data collection - Clinton and Shirley (complete, will flush out more)
 - Access to LLMs - Eva
-- Generating vector spaces for each individual dataset - Eva, Anibely, Clinton (in process - will add code base to main for others to see)
+- Generating vector spaces for each individual dataset - Eva, Anibely, and Clinton 
 - Agentic augmentation - Clinton 
-- Benchmarking - Shirley
+- Benchmarking - Shirley and Anibely
 - Communication - All
 
 # Roadmap
@@ -22,3 +18,7 @@ Collaborators: **Clinton Stipek (cstipek@vols.utk.edu)**, Shirley xu, Eva Kaushi
 - December 5 - Final project manuscript
 
 **NOTE:** *Schedule is tentative*
+
+# POC
+
+Collaborators: **Clinton Stipek (cstipek@vols.utk.edu)**, Shirley xu, Eva Kaushik, and Anibely Torres.
