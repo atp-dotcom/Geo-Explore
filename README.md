@@ -5,6 +5,9 @@ This repository contains the final project for DSE 511
 Clinton Stipek - cstipek@vols.utk.edu
 Feel free to add your names here
 
+# Manuscript
+https://www.overleaf.com/4319268146rbknjkqpssjz#632785
+
 # Roadmap
 
 - Data collection - Clinton and Shirley (complete, will flush out more)
