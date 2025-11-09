@@ -17,8 +17,12 @@ https://www.overleaf.com/4319268146rbknjkqpssjz#632785
 - Benchmarking - Shirley
 - Communication - All
 
-# Deadlines
-November 14 - Access to 5 LLMs
-November 21 - prompts ironed out and baseline results
-November 28 - comparison between LLM, RAG, and RAG + agent
-December 5 - initial draft of manuscript
+# Goals
+
+# Objectives
+
+# Relevant Research to Read
+- Demystifying embedding spaces using Large Language Models (Tennenholtz); https://arxiv.org/abs/2310.04475
+- A semantic embedding space based on large language models for modelling human beliefs (Lee); https://www.nature.com/articles/s41562-025-02228-z
+- A systematic review of geospatial location embedding approaches in large language models: A path to spatial AI systems (Tucker); https://arxiv.org/abs/2401.10279
+- Embedding-Aligned Language Models (Tennenholtz); https://arxiv.org/abs/2406.00024
