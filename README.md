@@ -43,7 +43,7 @@ I think that 3 high-level groups of prompts will be developed
 
 # POC
 - Clinton Stipek - cstipek@vols.utk.edu
-- Feel free to add your names here
+- Eva Kaushik - ekaushik@vols.utk.edu
 
 # Manuscript
 https://www.overleaf.com/4319268146rbknjkqpssjz#632785
